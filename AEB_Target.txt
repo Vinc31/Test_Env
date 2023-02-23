@@ -1,2 +1,6 @@
 Target_Parameter() { //Fonction resultat OK }
-delay 20ms
+<<<<<<< HEAD
+delay 200ms
+=======
+delay 200ms // LDE
+>>>>>>> origin/Branch_dev_LDE2
